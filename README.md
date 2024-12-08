@@ -2,7 +2,7 @@
     <a href="https://thinknxg">
         <img src="https://thinknxg.com/wp-content/uploads/2023/12/favicon.svg1-01.png" height="128">
     </a>
-    <h2>thinkNXG HR</h2>
+    <h2>thinkNXG LMS</h2>
     <p align="center">
         <p>Easy to use, thinknxg learning management system.</p>
     </p>
