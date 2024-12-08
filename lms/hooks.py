@@ -1,14 +1,14 @@
 from . import __version__ as app_version
 
 app_name = "frappe_lms"
-app_title = "Frappe LMS"
-app_publisher = "Frappe"
-app_description = "Frappe LMS App"
-app_icon_url = "/assets/lms/images/lms-logo.png"
+app_title = "thinknxg LMS"
+app_publisher = "thinknxg"
+app_description = "thinknxg LMS App"
+app_icon_url = "/assets/lms/images/thinknxg-logo.png"
 app_icon_title = "Learning"
 app_icon_route = "/lms"
 app_color = "grey"
-app_email = "jannat@frappe.io"
+app_email = "sales@kreatao.com"
 app_license = "AGPL"
 
 # Includes in <head>
